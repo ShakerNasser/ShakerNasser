@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ShakerNasser-blue)](https://www.linkedin.com/in/shaker-nasser-72a80b291/)
 [![Email](https://img.shields.io/badge/Email-shaker.nasser%40outlook.com-orange)](mailto:shaker.nasser@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ShakerNasser-green)](https://github.com/ShakerNasser)
-[![CV](https://img.shields.io/badge/CV-View-blue)](https://sway.cloud.microsoft/OGeJHt0PrqWHFPAW?authoringPlay=true&publish)
+[![CV](https://img.shields.io/badge/CV-View-blue)](https://sway.cloud.microsoft/ncjDS7DLszzLaBYz?authoringPlay=true&publish)
 
 ## 👋 Hi, I'm Shaker Nasser!
 
